@@ -4,15 +4,16 @@ import { Routes, Route, useNavigate } from "react-router-dom";
 import Login from "./component/Login";
 import Home from "./container/Home";
 
-import { fetchUser } from "./utils/fetchUser";
-
 const App = () => {
 	const navigate = useNavigate();
 
 	useEffect(() => {
-		const user = fetchUser();
+		const User =
+			localStorage.getItem("user") !== "undefined"
+				? JSON.parse(localStorage.getItem("user"))
+				: localStorage.clear();
 
-		if (!user) navigate("/login");
+		if (!User) navigate("/login");
 	});
 
 	return (
