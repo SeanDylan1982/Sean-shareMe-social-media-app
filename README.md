@@ -51,6 +51,10 @@ Users should be able to:
 
 ![Screenshot (756)](https://user-images.githubusercontent.com/61611882/162573444-a924fbdb-bafd-4902-a79c-d3661665dc41.png)
 
+#### Comment Section
+![Screenshot (238)](https://user-images.githubusercontent.com/52795682/162574919-0bf83e08-6620-4491-bfa1-43f5fb61e0aa.png)
+
+
 
 ### Links
 
