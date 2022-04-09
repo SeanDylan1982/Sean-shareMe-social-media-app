@@ -2,7 +2,7 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-
+![Screenshot (747)](https://user-images.githubusercontent.com/61611882/162573106-057d65ca-c62e-44c8-a8e7-c3ca4dc97d82.png)
 
 ### Links
 
@@ -34,7 +34,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Tailwind
-- Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
 
