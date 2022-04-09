@@ -8,12 +8,14 @@
   - [Built with](#built-with)
  
 ## Overview
-
+Google Authentication, create, edit, delete and save posts, like and comment on other people's posts, search and filter images and much more, ShareMe is the best Image Sharing Social Media App.
 ### The challenge
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size
+- View the optimal layout depending on their device's screen size.
+- Able to upload dashboards with ease.
+- Collab and interact with others using the apps interactive and wholesome features.
 
 ### Screenshots
 
@@ -76,3 +78,14 @@ Users should be able to:
 - Tailwind CSS
 - [React](https://reactjs.org/) - JS library
 - [Sanity](https://www.sanity.io) - Content Management System (CMS)
+
+### Continued development
+- Include various features like collaboration and data insights of the uploaded content.
+- Image preprocessing and recognition of characters which can further be converted into pins thus avoiding manual creation of pins by the user.
+- Avoid lag of uploading images of larger pixels.
+
+### Useful resources
+
+Sanity JSM Subscribers Special - https://www.sanity.io/javascriptmastery 
+Sanity - https://www.sanity.io
+
