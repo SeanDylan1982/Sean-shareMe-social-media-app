@@ -4,11 +4,9 @@
   - [The challenge](#the-challenge)
   - [Screenshots](#screenshots)
   - [Links](#links)
-- [My process](#my-process)
+- [Our process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+ 
 ## Overview
 
 ### The challenge
@@ -58,23 +56,13 @@ Users should be able to:
 
 - Solution URL: https://share-me-8729.netlify.app/
 
-## My process
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Tailwind
+- Tailwind CSS
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Sanity](https://www.sanity.io) - Content Management System (CMS)
