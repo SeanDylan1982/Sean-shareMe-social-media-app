@@ -86,6 +86,6 @@ Users should be able to:
 
 ### Useful resources
 
-Sanity JSM Subscribers Special - https://www.sanity.io/javascriptmastery 
-Sanity - https://www.sanity.io
+-Sanity JSM Subscribers Special - https://www.sanity.io/javascriptmastery 
+-Sanity - https://www.sanity.io
 
