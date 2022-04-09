@@ -85,5 +85,7 @@ Users should be able to:
 - Avoid lag of uploading images of larger pixels.
 
 ###Useful resources
-Sanity JSM Subscribers Special - https://www.sanity.io/javascriptmastery 
+
+
+-Sanity JSM Subscribers Special - https://www.sanity.io/javascriptmastery 
 
