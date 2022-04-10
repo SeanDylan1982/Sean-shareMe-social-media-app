@@ -84,7 +84,7 @@ Users should be able to:
 - Image preprocessing and recognition of characters which can further be converted into pins thus avoiding manual creation of pins by the user.
 - Avoid lag of uploading images of larger pixels.
 
-###Useful resources
+### Useful resources
 
 
 -Sanity JSM Subscribers Special - https://www.sanity.io/javascriptmastery 
