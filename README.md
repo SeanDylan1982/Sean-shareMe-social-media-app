@@ -8,7 +8,9 @@
   - [Built with](#built-with)
  
 ## Overview
-Google Authentication, create, edit, delete and save posts, like and comment on other people's posts, search and filter images and much more, ShareMe is the best Image Sharing Social Media App.
+ShareMe is a Social Media Platforms aimed towards sharing experiences through photographs.
+ShareMe provides the user with complete control of their posts such as creation, editing, deletion as well as saving favourite pins for later reference.
+Powered By Google Authentication, Shareme Provides streamlined account activities and top of the line security.
 ### The challenge
 
 Users should be able to:
