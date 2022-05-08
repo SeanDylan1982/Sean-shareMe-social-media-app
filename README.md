@@ -115,7 +115,7 @@ Users should be able to:
 
 ## Credits
 - Keegan Paul Colaco
-- Sudipta
+- Sudipta Shaw
 - Saurav Kuman
 - Saikumar Iyer
 - Saachi Almeida
