@@ -11,6 +11,23 @@
 ShareMe is a Social Media Platforms aimed towards sharing experiences through photographs.
 ShareMe provides the user with complete control of their posts such as creation, editing, deletion as well as saving favourite pins for later reference.
 Powered By Google Authentication, Shareme Provides streamlined account activities and top of the line security.
+
+## Project Description
+The app consists of various categories into which a post can be classified under.The categories are Cars,Fitness,Wallpaper,Websites,Photo,food,Nature,Art,Travel,Quotes,Cats and Dogs.
+A user needs to specify which category the post falls under while creating it.
+Saved posts appear under the user's profile along with posted pins.
+
+## Installation
+-npm install
+-npm install -g @sanity/cli
+-npm install tailwindcss postcss-cli autoprefixer
+
+
+## Running
+-npm start
+-sanity start
+
+
 ### The challenge
 
 Users should be able to:
@@ -80,6 +97,7 @@ Users should be able to:
 - Tailwind CSS
 - [React](https://reactjs.org/) - JS library
 - [Sanity](https://www.sanity.io) - Content Management System (CMS)
+- MongoDB
 
 ### Continued development
 - Include various features like collaboration and data insights of the uploaded content.
@@ -90,4 +108,10 @@ Users should be able to:
 
 
 -Sanity JSM Subscribers Special - https://www.sanity.io/javascriptmastery 
+
+## Credits
+-Keegan Paul Colaco
+-Sudipta
+-Saurav Kuman
+-Saikumar Iyer
 
