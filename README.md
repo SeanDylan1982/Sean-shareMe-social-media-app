@@ -1,11 +1,15 @@
 ## Table of contents
 
 - [Overview](#overview)
+- [Project Description](#Project Description)
+- [Installation](#Installation)
+- [Running](#Running)
   - [The challenge](#the-challenge)
   - [Screenshots](#screenshots)
   - [Links](#links)
 - [Our process](#my-process)
   - [Built with](#built-with)
+  - [Credits](#Credits)
  
 ## Overview
 ShareMe is a Social Media Platforms aimed towards sharing experiences through photographs.
@@ -18,14 +22,14 @@ A user needs to specify which category the post falls under while creating it.
 Saved posts appear under the user's profile along with posted pins.
 
 ## Installation
--npm install
--npm install -g @sanity/cli
--npm install tailwindcss postcss-cli autoprefixer
+- npm install
+- npm install -g @sanity/cli
+- npm install tailwindcss postcss-cli autoprefixer
 
 
 ## Running
--npm start
--sanity start
+- npm start
+- sanity start
 
 
 ### The challenge
@@ -107,11 +111,12 @@ Users should be able to:
 ### Useful resources
 
 
--Sanity JSM Subscribers Special - https://www.sanity.io/javascriptmastery 
+- Sanity JSM Subscribers Special - https://www.sanity.io/javascriptmastery 
 
 ## Credits
--Keegan Paul Colaco
--Sudipta
--Saurav Kuman
--Saikumar Iyer
+- Keegan Paul Colaco
+- Sudipta
+- Saurav Kuman
+- Saikumar Iyer
+- Saachi Almeida
 
