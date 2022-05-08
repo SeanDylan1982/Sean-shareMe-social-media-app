@@ -1,15 +1,15 @@
 ## Table of contents
 
 - [Overview](#overview)
-- [Project Description](#Project Description)
+- [Project Description](#Project-Description)
 - [Installation](#Installation)
 - [Running](#Running)
-  - [The challenge](#the-challenge)
-  - [Screenshots](#screenshots)
-  - [Links](#links)
+- [The challenge](#the-challenge)
+- [Screenshots](#screenshots)
+- [Links](#links)
 - [Our process](#my-process)
   - [Built with](#built-with)
-  - [Credits](#Credits)
+ - [Credits](#Credits)
  
 ## Overview
 ShareMe is a Social Media Platforms aimed towards sharing experiences through photographs.
